@@ -1,9 +1,9 @@
 # Colour-Based Product Sorting System
 
-A real-time colour detection and classification system using ESP32 and TCS3200 colour sensor that automatically sorts products using servo motors.
+A real-time colour detection and classification system using Arduino and TCS3200 colour sensor that automatically sorts products using servo motors.
 
 ## 🛠️ Tech Stack
-- **Microcontroller:** ESP32
+- **Microcontroller:** Arduino uno
 - **Firmware:** Embedded C (Arduino framework)
 - **Sensor:** TCS3200 Colour Sensor
 - **Actuator:** Servo Motor
